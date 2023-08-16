@@ -1,2 +1,16 @@
-
-/* Your CSS Code here. */
+*{
+	margin:0px;
+}
+.nav{
+	background-color:black;
+	height:8vh;
+	border-radius:12px;
+	width:100%;
+	display:flex;
+}
+a{
+	color:white;
+	padding-left:18px;
+	margin-top:14px;
+	text-decoration:none;
+}
